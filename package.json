@@ -1,0 +1,10 @@
+{
+  "name": "js",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "redux": "^4.1.1",
+    "redux-logger": "^4.0.0",
+    "redux-thunk": "^2.3.0"
+  }
+}
